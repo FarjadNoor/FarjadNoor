@@ -4,7 +4,6 @@
 Master's degree recipient in Information Security with Bachelor's in Computer Science. A Cyber Security enthusiast and self-motivated IT professional with 3 years of professional experience with good knowledge and proficiency in React, JavaScript, HTML, CSS, and the ability to write clean and efficient code as well as knowledge of relevant software tools.
 
 *   🌍  I'm based in Karachi, Pakistan
-*   ✉️  You can contact me at [mnoor.farjad@yahoo.com](mailto:mnoor.farjad@yahoo.com)
 *   🧠  I'm learning Cyber Security
 ## Skills 
 <p align="left">
