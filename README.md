@@ -1,17 +1,12 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQGJdA2VWMRo4w/profile-displaybackgroundimage-shrink_350_1400/0/1664792607298?e=1676505600&v=beta&t=I7-s-fNoNbpmYzKFiPlzXb9M-_HCw7g4b5fKfYeQ9As" width="100%" alt="Banner" />
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farjad Noor
-===================================================================================================================================
-
-Software Engineer | JavaScript | React.js
------------------
-
+## 🚀 About Me
 Master's degree recipient in Information Security with Bachelor's in Computer Science. A Cyber Security enthusiast and self-motivated IT professional with 3 years of professional experience with good knowledge and proficiency in React, JavaScript, HTML, CSS, and the ability to write clean and efficient code as well as knowledge of relevant software tools.
 
 *   🌍  I'm based in Karachi, Pakistan
 *   ✉️  You can contact me at [mnoor.farjad@yahoo.com](mailto:mnoor.farjad@yahoo.com)
 *   🧠  I'm learning Cyber Security
-### Skills 
+## Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -30,7 +25,7 @@ Master's degree recipient in Information Security with Bachelor's in Computer Sc
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-### Socials
+## Socials
                  
 <p align="left">
 <a href="https://www.linkedin.com/in/farjadnoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
