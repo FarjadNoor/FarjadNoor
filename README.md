@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQGJdA2VWMRo4w/profile-displaybackgroundimage-shrink_350_1400/0/1664792607298?e=1676505600&v=beta&t=I7-s-fNoNbpmYzKFiPlzXb9M-_HCw7g4b5fKfYeQ9As" width="100%" alt="Banner" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farjad Noor
 ===================================================================================================================================
 
